@@ -1,0 +1,13 @@
+.txt : Text Files
+.py : Python Files
+.pdf : Documents
+.doc : Documents
+.docx : Documents
+.png : Pictures
+.jpg : Pictures
+.png : Pictures
+.gif : Pictures
+.tif : Pictures
+.java : Java Files
+.jar : Java Files/Jar Files
+.exe : Executables
