@@ -1,7 +1,6 @@
 import os, shutil, re,sys, getopt
-import tkinter.filedialog
 
-path = textopen = tkinter.filedialog.askdirectory(mode="r")
+path = "/home/your_name/Documents/"
 files = "files.txt"
 count = 0
 
