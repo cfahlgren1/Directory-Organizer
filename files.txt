@@ -3,11 +3,28 @@
 .pdf : Documents
 .doc : Documents
 .docx : Documents
-.png : Pictures
-.jpg : Pictures
-.png : Pictures
-.gif : Pictures
-.tif : Pictures
+.png : Images
+.jpg : Images
+.png : Images
+.gif : Images
+.tif : Images
+.ico : Images
 .java : Java Files
 .jar : Java Files/Jar Files
 .exe : Executables
+.msi : Executables
+.wav : Video_Audio
+.mp4 : Video_Audio
+.mp3 : Video_Audio
+.avi : Video_Audio
+.zip : Zip Files
+rar : Zip Files
+.xlsx : Spreadsheets
+.csv : Spreadsheets
+.mov : Video_Audio
+.aep : After Effects Files
+.psd : Photoshop Files
+.rtf : Documents
+.otf : Fonts
+.ttf : Fonts
+rar : Zip Files

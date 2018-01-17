@@ -1,6 +1,6 @@
 import os, shutil, re,sys, getopt
 
-path = "/home/your_name/Documents/"
+path = "your_path"
 files = "files.txt"
 count = 0
 
